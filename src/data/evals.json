@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "scenario": "High debt ratio with weak cash flow",
+    "expected_risk": "debt risk",
+    "pass_criteria": [
+      "debt",
+      "risk",
+      "Citation:"
+    ]
+  },
+  {
+    "id": 2,
+    "scenario": "Strong market growth but intense competition",
+    "expected_risk": "competitive pressure",
+    "pass_criteria": [
+      "competition",
+      "market",
+      "Citation:"
+    ]
+  },
+  {
+    "id": 3,
+    "scenario": "Profitable company in declining market",
+    "expected_risk": "market decline",
+    "pass_criteria": [
+      "market",
+      "decline",
+      "Risk Mitigation"
+    ]
+  }
+]
