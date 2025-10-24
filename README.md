@@ -184,6 +184,12 @@ The system generates a comprehensive report with:
 - **Risk Mitigation**: Actionable strategies
 - **Citations**: Source references
 
+### Sample UI Response
+
+![UI Response Example](public/ui_response.png)
+
+The interface displays the complete analysis with color-coded recommendations and structured insights.
+
 ---
 
 ## 🧪 Testing
@@ -198,6 +204,12 @@ This validates that agent outputs include:
 - Proper risk identification
 - Required citations
 - Risk mitigation strategies
+
+### Evaluation Results
+
+![Evaluation Results](public/evals.png)
+
+The evaluation suite tests multiple scenarios to ensure agent quality and reliability.
 
 ---
 
